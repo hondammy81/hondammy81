@@ -1,16 +1,15 @@
-## Hi there 👋
+# Dammy Okunlola
 
-<!--
-**hondammy81/hondammy81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CIS cybersecurity student at Wayne County Community College District (WCCCD), based in Detroit, Michigan.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Dovaria AI** — a remote job board for people locked out by work-authorization walls: worldwide-eligible, entry-level-friendly listings, checked before they go up. Live at [dovaria.onrender.com](https://dovaria.onrender.com). (Source is private for now.)
+
+## What I'm learning
+
+Operating systems, security fundamentals, and how real systems hold up — through coursework and building.
+
+## Interests
+
+Security, systems, crypto, and how people actually get hired.
